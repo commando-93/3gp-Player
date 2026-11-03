@@ -212,4 +212,4 @@ Yes, you can find technical support through our official website and user forums
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-03 11:28:55 UTC
+**Last updated:** 2026-11-03 18:50:04 UTC
